@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorEngineTest", "RazorEngineTest\RazorEngineTest.csproj", "{C50D407F-541D-4123-B203-D19DBAA371DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C50D407F-541D-4123-B203-D19DBAA371DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50D407F-541D-4123-B203-D19DBAA371DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50D407F-541D-4123-B203-D19DBAA371DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50D407F-541D-4123-B203-D19DBAA371DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
